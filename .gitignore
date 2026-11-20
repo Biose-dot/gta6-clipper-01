@@ -1,0 +1,6 @@
+# Build artifacts and local-only files — not part of the entry snapshot
+clip-final.mp4
+work/
+out/
+transcripts.tar.gz
+DESKRIPSI.txt
